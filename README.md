@@ -7,4 +7,4 @@ Deploy Airflow on Kubernetes with Helm
   kubectl create namespace airflow
   ```
 
-  In your console should see this: ´namespace/airflow created´
+  You should see in the console this: *namespace/airflow created*
